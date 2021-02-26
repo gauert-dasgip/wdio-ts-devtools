@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "types": [
+            "node",
+            "webdriverio/sync",
+            "@wdio/jasmine-framework",
+            "@wdio/devtools-service"
+        ]
+    },
+    "include": [
+        "./test/**/*.ts"
+    ]
+}
